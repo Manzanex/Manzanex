@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Manzanex
+- 👀 I’m interested in learn code ( C / ++ / #, Python, Swift and a lot of Databases )
+- 💞️ I’m looking to collaborate on Videogames code and tradebots
+- 📫 How to reach me @manzanex
